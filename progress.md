@@ -11,4 +11,4 @@
 | 2026-08-25 | Stacks/Queues (Valid Parentheses) | Easy | Operating Systems, System Design, Computer Architecture | August-2026/25.md | 2 |
 | 2026-08-26 | Linked Lists (Cycle Detection) | Easy | Operating Systems, DBMS, Computer Networks | August-2026/26.md | 3 |
 | 2026-08-27 | Trees (Lowest Common Ancestor) | Medium | OOP, System Design Basics, DBMS | August-2026/27.md | 4 |
-| 2026-08-28 | Hashing/Maps (Two Sum) | Easy | Computer Architecture, Computer Networks, Operating Systems | August-2026/28.md | 5 |
+| 2026-08-28 | Graphs (Course Schedule) | Medium | DBMS, OOP, System Design | August-2026/28.md | 5 |
