@@ -13,3 +13,4 @@
 | 2026-08-27 | Trees (Lowest Common Ancestor) | Medium | OOP, System Design Basics, DBMS | August-2026/27.md | 4 |
 | 2026-08-28 | Graphs (Course Schedule) | Medium | DBMS, OOP, System Design | August-2026/28.md | 5 |
 | 2026-08-29 | Hashing/Maps (Subarray Sum Equals K) | Medium | Computer Architecture, Computer Networks, Operating Systems | August-2026/29.md | 6 |
+| 2026-08-30 | Arrays (Container With Most Water) | Medium | Computer Architecture, OOP, System Design Basics | August-2026/30.md | 7 |
