@@ -15,3 +15,4 @@
 | 2026-08-29 | Hashing/Maps (Subarray Sum Equals K) | Medium | Computer Architecture, Computer Networks, Operating Systems | August-2026/29.md | 6 |
 | 2026-08-30 | Arrays (Container With Most Water) | Medium | Computer Architecture, OOP, System Design Basics | August-2026/30.md | 7 |
 | 2026-08-31 | Dynamic Programming (House Robber) | Medium | Operating Systems, Computer Networks, DBMS | August-2026/31.md | 8 |
+| 2026-09-01 | Greedy (Jump Game) | Medium | DBMS, Computer Networks, System Design Basics | September-2026/01.md | 9 |
