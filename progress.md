@@ -19,3 +19,4 @@
 | 2026-09-02 | Stacks/Queues (Daily Temperatures) | Medium | Operating Systems, Computer Architecture, OOP | September-2026/02.md | 10 |
 | 2026-09-03 | Bit Manipulation (Single Number II) | Medium | DBMS, Computer Architecture, System Design Basics | September-2026/03.md | 11 |
 | 2026-09-04 | Trees (Zigzag Level Order Traversal) | Medium | Computer Networks, OOP, Computer Architecture | September-2026/04.md | 12 |
+| 2026-09-05 | Sorting/Searching (Search in Rotated Sorted Array) | Medium | Operating Systems, Computer Networks, System Design Basics | September-2026/05.md | 13 |
