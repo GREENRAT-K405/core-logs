@@ -21,3 +21,4 @@
 | 2026-09-04 | Trees (Zigzag Level Order Traversal) | Medium | Computer Networks, OOP, Computer Architecture | September-2026/04.md | 12 |
 | 2026-09-05 | Sorting/Searching (Search in Rotated Sorted Array) | Medium | Operating Systems, Computer Networks, System Design Basics | September-2026/05.md | 13 |
 | 2026-09-06 | Recursion/Backtracking (Combination Sum) | Medium | DBMS, OOP, Computer Architecture | September-2026/06.md | 14 |
+| 2026-09-07 | Graphs (Word Ladder) | Hard | Operating Systems, DBMS, System Design Basics | September-2026/07.md | 15 |
