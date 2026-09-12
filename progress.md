@@ -26,3 +26,4 @@
 | 2026-09-09 | Strings (Longest Substring Without Repeating Characters) | Medium | Operating Systems, OOP, System Design Basics | September-2026/09.md | 17 |
 | 2026-09-10 | Hashing/Maps (Longest Consecutive Sequence) | Medium | Computer Architecture, Computer Networks, DBMS | September-2026/10.md | 18 |
 | 2026-09-11 | Dynamic Programming (Edit Distance) | Hard | DBMS, System Design Basics, Computer Architecture | September-2026/11.md | 19 |
+| 2026-09-12 | Arrays (Product of Array Except Self) | Medium | Operating Systems, Computer Networks, OOP | September-2026/12.md | 20 |
