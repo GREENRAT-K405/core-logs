@@ -30,3 +30,4 @@
 | 2026-09-13 | Trees (Diameter of Binary Tree) | Medium | DBMS, Computer Architecture, System Design Basics | September-2026/13.md | 21 |
 | 2026-09-14 | Graphs (Rotting Oranges) | Medium | Computer Networks, DBMS, OOP | September-2026/14.md | 22 |
 | 2026-09-15 | Greedy (Gas Station) | Medium | Operating Systems, Computer Networks, System Design Basics | September-2026/15.md | 23 |
+| 2026-09-16 | Stacks/Queues (Largest Rectangle in Histogram) | Hard | Computer Architecture, DBMS, OOP | September-2026/16.md | 24 |
