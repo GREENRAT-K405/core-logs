@@ -31,3 +31,4 @@
 | 2026-09-14 | Graphs (Rotting Oranges) | Medium | Computer Networks, DBMS, OOP | September-2026/14.md | 22 |
 | 2026-09-15 | Greedy (Gas Station) | Medium | Operating Systems, Computer Networks, System Design Basics | September-2026/15.md | 23 |
 | 2026-09-16 | Stacks/Queues (Largest Rectangle in Histogram) | Hard | Computer Architecture, DBMS, OOP | September-2026/16.md | 24 |
+| 2026-09-17 | Sorting/Searching (Kth Largest Element in an Array) | Medium | Operating Systems, Computer Networks, DBMS | September-2026/17.md | 25 |
