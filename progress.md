@@ -32,3 +32,4 @@
 | 2026-09-15 | Greedy (Gas Station) | Medium | Operating Systems, Computer Networks, System Design Basics | September-2026/15.md | 23 |
 | 2026-09-16 | Stacks/Queues (Largest Rectangle in Histogram) | Hard | Computer Architecture, DBMS, OOP | September-2026/16.md | 24 |
 | 2026-09-17 | Sorting/Searching (Kth Largest Element in an Array) | Medium | Operating Systems, Computer Networks, DBMS | September-2026/17.md | 25 |
+| 2026-09-18 | Dynamic Programming (Burst Balloons) | Hard | Operating Systems, OOP, System Design Basics | September-2026/18.md | 26 |
