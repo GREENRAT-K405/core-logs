@@ -33,3 +33,4 @@
 | 2026-09-16 | Stacks/Queues (Largest Rectangle in Histogram) | Hard | Computer Architecture, DBMS, OOP | September-2026/16.md | 24 |
 | 2026-09-17 | Sorting/Searching (Kth Largest Element in an Array) | Medium | Operating Systems, Computer Networks, DBMS | September-2026/17.md | 25 |
 | 2026-09-18 | Dynamic Programming (Burst Balloons) | Hard | Operating Systems, OOP, System Design Basics | September-2026/18.md | 26 |
+| 2026-09-19 | Bit Manipulation (Maximum XOR of Two Numbers in an Array) | Medium | Computer Architecture, DBMS, System Design Basics | September-2026/19.md | 27 |
