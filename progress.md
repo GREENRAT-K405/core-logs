@@ -35,3 +35,4 @@
 | 2026-09-18 | Dynamic Programming (Burst Balloons) | Hard | Operating Systems, OOP, System Design Basics | September-2026/18.md | 26 |
 | 2026-09-19 | Bit Manipulation (Maximum XOR of Two Numbers in an Array) | Medium | Computer Architecture, DBMS, System Design Basics | September-2026/19.md | 27 |
 | 2026-09-20 | Recursion/Backtracking (N-Queens) | Hard | Operating Systems, DBMS, Computer Architecture | September-2026/20.md | 28 |
+| 2026-09-21 | Linked Lists (Reorder List) | Medium | Computer Networks, OOP, System Design Basics | September-2026/21.md | 29 |
