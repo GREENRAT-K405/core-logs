@@ -38,3 +38,4 @@
 | 2026-09-21 | Linked Lists (Reorder List) | Medium | Computer Networks, OOP, System Design Basics | September-2026/21.md | 29 |
 | 2026-09-22 | Strings (Minimum Window Substring) | Hard | Operating Systems, Computer Networks, OOP | September-2026/22.md | 30 |
 | 2026-09-23 | Trees (Binary Tree Right Side View) | Medium | DBMS, Computer Networks, Computer Architecture | September-2026/23.md | 31 |
+| 2026-09-24 | Hashing/Maps (Substring with Concatenation of All Words) | Hard | Operating Systems, OOP, System Design Basics | September-2026/24.md | 32 |
