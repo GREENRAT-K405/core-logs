@@ -40,3 +40,4 @@
 | 2026-09-23 | Trees (Binary Tree Right Side View) | Medium | DBMS, Computer Networks, Computer Architecture | September-2026/23.md | 31 |
 | 2026-09-24 | Hashing/Maps (Substring with Concatenation of All Words) | Hard | Operating Systems, OOP, System Design Basics | September-2026/24.md | 32 |
 | 2026-09-25 | Graphs (Number of Islands) | Medium | Computer Networks, DBMS, System Design Basics | September-2026/25.md | 33 |
+| 2026-09-26 | Arrays (Trapping Rain Water) | Hard | DBMS, System Design Basics, Computer Architecture | September-2026/26.md | 34 |
