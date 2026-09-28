@@ -42,3 +42,4 @@
 | 2026-09-25 | Graphs (Number of Islands) | Medium | Computer Networks, DBMS, System Design Basics | September-2026/25.md | 33 |
 | 2026-09-26 | Arrays (Trapping Rain Water) | Hard | DBMS, System Design Basics, Computer Architecture | September-2026/26.md | 34 |
 | 2026-09-27 | Linked Lists (Linked List Cycle II) | Medium | Operating Systems, Computer Networks, OOP | September-2026/27.md | 35 |
+| 2026-09-28 | Greedy (Candy) | Hard | Operating Systems, DBMS, Computer Architecture | September-2026/28.md | 36 |
