@@ -44,3 +44,4 @@
 | 2026-09-27 | Linked Lists (Linked List Cycle II) | Medium | Operating Systems, Computer Networks, OOP | September-2026/27.md | 35 |
 | 2026-09-28 | Greedy (Candy) | Hard | Operating Systems, DBMS, Computer Architecture | September-2026/28.md | 36 |
 | 2026-09-29 | Trees (Construct Binary Tree from Preorder and Inorder Traversal) | Medium | Computer Architecture, OOP, Computer Networks | September-2026/29.md | 37 |
+| 2026-09-30 | Stacks/Queues (Basic Calculator) | Hard | DBMS, OOP, System Design Basics | September-2026/30.md | 38 |
