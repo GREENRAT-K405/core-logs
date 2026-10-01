@@ -45,3 +45,4 @@
 | 2026-09-28 | Greedy (Candy) | Hard | Operating Systems, DBMS, Computer Architecture | September-2026/28.md | 36 |
 | 2026-09-29 | Trees (Construct Binary Tree from Preorder and Inorder Traversal) | Medium | Computer Architecture, OOP, Computer Networks | September-2026/29.md | 37 |
 | 2026-09-30 | Stacks/Queues (Basic Calculator) | Hard | DBMS, OOP, System Design Basics | September-2026/30.md | 38 |
+| 2026-10-01 | Hashing/Maps (Group Anagrams) | Medium | OOP, Operating Systems, DBMS | October-2026/01.md | 39 |
