@@ -48,3 +48,4 @@
 | 2026-10-01 | Hashing/Maps (Group Anagrams) | Medium | OOP, Operating Systems, DBMS | October-2026/01.md | 39 |
 | 2026-10-02 | Sorting/Searching (Median of Two Sorted Arrays) | Hard | Computer Networks, System Design Basics, Computer Architecture | October-2026/02.md | 40 |
 | 2026-10-03 | Dynamic Programming (Distinct Subsequences) | Hard | Operating Systems, Computer Networks, System Design Basics | October-2026/03.md | 41 |
+| 2026-10-04 | Bit Manipulation (Single Number III) | Medium | DBMS, OOP, Computer Architecture | October-2026/04.md | 42 |
