@@ -49,3 +49,4 @@
 | 2026-10-02 | Sorting/Searching (Median of Two Sorted Arrays) | Hard | Computer Networks, System Design Basics, Computer Architecture | October-2026/02.md | 40 |
 | 2026-10-03 | Dynamic Programming (Distinct Subsequences) | Hard | Operating Systems, Computer Networks, System Design Basics | October-2026/03.md | 41 |
 | 2026-10-04 | Bit Manipulation (Single Number III) | Medium | DBMS, OOP, Computer Architecture | October-2026/04.md | 42 |
+| 2026-10-05 | Recursion/Backtracking (Word Break II) | Hard | Operating Systems, DBMS, Computer Architecture | October-2026/05.md | 43 |
