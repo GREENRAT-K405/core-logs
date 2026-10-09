@@ -53,3 +53,4 @@
 | 2026-10-06 | Strings (Longest Palindromic Substring) | Medium | Computer Networks, OOP, System Design Basics | October-2026/06.md | 44 |
 | 2026-10-07 | Linked Lists (Merge k Sorted Lists) | Hard | Operating Systems, Computer Networks, OOP | October-2026/07.md | 45 |
 | 2026-10-08 | Graphs (Course Schedule II) | Medium | DBMS, Computer Architecture, System Design Basics | October-2026/08.md | 46 |
+| 2026-10-09 | Trees (Binary Tree Maximum Path Sum) | Hard | Operating Systems, Computer Networks, System Design Basics | October-2026/09.md | 47 |
