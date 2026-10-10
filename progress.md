@@ -54,3 +54,4 @@
 | 2026-10-07 | Linked Lists (Merge k Sorted Lists) | Hard | Operating Systems, Computer Networks, OOP | October-2026/07.md | 45 |
 | 2026-10-08 | Graphs (Course Schedule II) | Medium | DBMS, Computer Architecture, System Design Basics | October-2026/08.md | 46 |
 | 2026-10-09 | Trees (Binary Tree Maximum Path Sum) | Hard | Operating Systems, Computer Networks, System Design Basics | October-2026/09.md | 47 |
+| 2026-10-10 | Arrays (3Sum) | Medium | System Design Basics, Computer Architecture, OOP | October-2026/10.md | 48 |
