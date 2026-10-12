@@ -56,3 +56,4 @@
 | 2026-10-09 | Trees (Binary Tree Maximum Path Sum) | Hard | Operating Systems, Computer Networks, System Design Basics | October-2026/09.md | 47 |
 | 2026-10-10 | Arrays (3Sum) | Medium | System Design Basics, Computer Architecture, OOP | October-2026/10.md | 48 |
 | 2026-10-11 | Dynamic Programming (Palindrome Partitioning II) | Hard | DBMS, Computer Networks, Computer Architecture | October-2026/11.md | 49 |
+| 2026-10-12 | Stacks/Queues (Decode String) | Medium | Operating Systems, Computer Networks, DBMS | October-2026/12.md | 50 |
