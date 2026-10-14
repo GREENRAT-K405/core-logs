@@ -58,3 +58,4 @@
 | 2026-10-11 | Dynamic Programming (Palindrome Partitioning II) | Hard | DBMS, Computer Networks, Computer Architecture | October-2026/11.md | 49 |
 | 2026-10-12 | Stacks/Queues (Decode String) | Medium | Operating Systems, Computer Networks, DBMS | October-2026/12.md | 50 |
 | 2026-10-13 | Greedy (Jump Game II) | Medium | OOP, Computer Networks, DBMS | October-2026/13.md | 51 |
+| 2026-10-14 | Hashing/Maps (LFU Cache) | Hard | Operating Systems, System Design Basics, Computer Architecture | October-2026/14.md | 52 |
