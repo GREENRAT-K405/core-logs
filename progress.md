@@ -59,3 +59,4 @@
 | 2026-10-12 | Stacks/Queues (Decode String) | Medium | Operating Systems, Computer Networks, DBMS | October-2026/12.md | 50 |
 | 2026-10-13 | Greedy (Jump Game II) | Medium | OOP, Computer Networks, DBMS | October-2026/13.md | 51 |
 | 2026-10-14 | Hashing/Maps (LFU Cache) | Hard | Operating Systems, System Design Basics, Computer Architecture | October-2026/14.md | 52 |
+| 2026-10-15 | Sorting/Searching (Search in Rotated Sorted Array) | Medium | OOP, Computer Networks, Computer Architecture | October-2026/15.md | 53 |
