@@ -62,3 +62,4 @@
 | 2026-10-15 | Sorting/Searching (Search in Rotated Sorted Array) | Medium | OOP, Computer Networks, Computer Architecture | October-2026/15.md | 53 |
 | 2026-10-16 | Bit Manipulation (Maximum XOR of Two Numbers in an Array) | Hard | Operating Systems, DBMS, System Design Basics | October-2026/16.md | 54 |
 | 2026-10-17 | Recursion/Backtracking (Combination Sum II) | Medium | OOP, Computer Networks, Computer Architecture | October-2026/17.md | 55 |
+| 2026-10-18 | Strings (Text Justification) | Hard | Operating Systems, Computer Networks, DBMS | October-2026/18.md | 56 |
