@@ -63,3 +63,4 @@
 | 2026-10-16 | Bit Manipulation (Maximum XOR of Two Numbers in an Array) | Hard | Operating Systems, DBMS, System Design Basics | October-2026/16.md | 54 |
 | 2026-10-17 | Recursion/Backtracking (Combination Sum II) | Medium | OOP, Computer Networks, Computer Architecture | October-2026/17.md | 55 |
 | 2026-10-18 | Strings (Text Justification) | Hard | Operating Systems, Computer Networks, DBMS | October-2026/18.md | 56 |
+| 2026-10-19 | Graphs (Critical Connections in a Network) | Hard | OOP, System Design Basics, DBMS | October-2026/19.md | 57 |
