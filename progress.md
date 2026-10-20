@@ -64,3 +64,4 @@
 | 2026-10-17 | Recursion/Backtracking (Combination Sum II) | Medium | OOP, Computer Networks, Computer Architecture | October-2026/17.md | 55 |
 | 2026-10-18 | Strings (Text Justification) | Hard | Operating Systems, Computer Networks, DBMS | October-2026/18.md | 56 |
 | 2026-10-19 | Graphs (Critical Connections in a Network) | Hard | OOP, System Design Basics, DBMS | October-2026/19.md | 57 |
+| 2026-10-20 | Trees (Recover Binary Search Tree) | Hard | Operating Systems, Computer Networks, Computer Architecture | October-2026/20.md | 58 |
