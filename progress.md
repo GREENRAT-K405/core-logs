@@ -66,3 +66,4 @@
 | 2026-10-19 | Graphs (Critical Connections in a Network) | Hard | OOP, System Design Basics, DBMS | October-2026/19.md | 57 |
 | 2026-10-20 | Trees (Recover Binary Search Tree) | Hard | Operating Systems, Computer Networks, Computer Architecture | October-2026/20.md | 58 |
 | 2026-10-21 | Linked Lists (Copy List with Random Pointer) | Medium | Computer Architecture, Computer Networks, DBMS | October-2026/21.md | 59 |
+| 2026-10-22 | Arrays (Sliding Window Maximum) | Hard | Operating Systems, DBMS, System Design Basics | October-2026/22.md | 60 |
