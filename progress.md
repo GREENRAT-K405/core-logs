@@ -68,3 +68,4 @@
 | 2026-10-21 | Linked Lists (Copy List with Random Pointer) | Medium | Computer Architecture, Computer Networks, DBMS | October-2026/21.md | 59 |
 | 2026-10-22 | Arrays (Sliding Window Maximum) | Hard | Operating Systems, DBMS, System Design Basics | October-2026/22.md | 60 |
 | 2026-10-23 | Dynamic Programming (Coin Change II) | Medium | OOP, Computer Architecture, Computer Networks | October-2026/23.md | 61 |
+| 2026-10-24 | Recursion/Backtracking (Expression Add Operators) | Hard | Computer Networks, DBMS, System Design Basics | October-2026/24.md | 62 |
