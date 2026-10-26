@@ -70,3 +70,4 @@
 | 2026-10-23 | Dynamic Programming (Coin Change II) | Medium | OOP, Computer Architecture, Computer Networks | October-2026/23.md | 61 |
 | 2026-10-24 | Recursion/Backtracking (Expression Add Operators) | Hard | Computer Networks, DBMS, System Design Basics | October-2026/24.md | 62 |
 | 2026-10-25 | Stacks/Queues (Asteroid Collision) | Medium | Operating Systems, OOP, System Design Basics | October-2026/25.md | 63 |
+| 2026-10-26 | Graphs (Alien Dictionary) | Hard | OOP, Computer Architecture, Operating Systems | October-2026/26.md | 64 |
