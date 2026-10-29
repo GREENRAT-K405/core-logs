@@ -73,3 +73,4 @@
 | 2026-10-26 | Graphs (Alien Dictionary) | Hard | OOP, Computer Architecture, Operating Systems | October-2026/26.md | 64 |
 | 2026-10-27 | Trees (Serialize and Deserialize Binary Tree) | Hard | DBMS, Computer Networks, System Design Basics | October-2026/27.md | 65 |
 | 2026-10-28 | Greedy (Partition Labels) | Medium | Computer Networks, OOP, System Design Basics | October-2026/28.md | 66 |
+| 2026-10-29 | Bit Manipulation (Maximum XOR With an Element From Array) | Hard | DBMS, Operating Systems, Computer Architecture | October-2026/29.md | 67 |
