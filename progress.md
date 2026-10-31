@@ -75,3 +75,4 @@
 | 2026-10-28 | Greedy (Partition Labels) | Medium | Computer Networks, OOP, System Design Basics | October-2026/28.md | 66 |
 | 2026-10-29 | Bit Manipulation (Maximum XOR With an Element From Array) | Hard | DBMS, Operating Systems, Computer Architecture | October-2026/29.md | 67 |
 | 2026-10-30 | Hashing/Maps (Subarray Sum Equals K) | Medium | Computer Architecture, OOP, Computer Networks | October-2026/30.md | 68 |
+| 2026-10-31 | Sorting/Searching (Count of Smaller Numbers After Self) | Hard | Computer Networks, DBMS, Operating Systems | October-2026/31.md | 69 |
