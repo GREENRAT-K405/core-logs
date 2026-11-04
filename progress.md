@@ -79,3 +79,4 @@
 | 2026-11-01 | Strings (Multiply Strings) | Medium | Computer Architecture, OOP, System Design Basics | November-2026/01.md | 70 |
 | 2026-11-02 | Graphs (Minimum Cost to Make at Least One Valid Path in a Grid) | Hard | Operating Systems, DBMS, OOP | November-2026/02.md | 71 |
 | 2026-11-03 | Dynamic Programming (Partition Equal Subset Sum) | Medium | Computer Networks, System Design Basics, Computer Architecture | November-2026/03.md | 72 |
+| 2026-11-04 | Linked Lists (Reverse Nodes in k-Group) | Hard | Operating Systems, DBMS, OOP | November-2026/04.md | 73 |
