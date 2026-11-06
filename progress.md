@@ -81,3 +81,4 @@
 | 2026-11-03 | Dynamic Programming (Partition Equal Subset Sum) | Medium | Computer Networks, System Design Basics, Computer Architecture | November-2026/03.md | 72 |
 | 2026-11-04 | Linked Lists (Reverse Nodes in k-Group) | Hard | Operating Systems, DBMS, OOP | November-2026/04.md | 73 |
 | 2026-11-05 | Trees (Binary Tree Zigzag Level Order Traversal) | Medium | DBMS, Computer Networks, OOP | November-2026/05.md | 74 |
+| 2026-11-06 | Arrays (Trapping Rain Water) | Hard | Operating Systems, Computer Architecture, System Design Basics | November-2026/06.md | 75 |
