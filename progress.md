@@ -85,3 +85,4 @@
 | 2026-11-07 | Stacks/Queues (Largest Rectangle in Histogram) | Hard | Computer Networks, DBMS, Computer Architecture | November-2026/07.md | 76 |
 | 2026-11-08 | Recursion/Backtracking (Palindrome Partitioning) | Medium | Operating Systems, OOP, System Design Basics | November-2026/08.md | 77 |
 | 2026-11-09 | Greedy (Task Scheduler) | Medium | Operating Systems, Computer Networks, DBMS | November-2026/09.md | 78 |
+| 2026-11-10 | Bit Manipulation (Minimum XOR Sum of Two Arrays) | Hard | Computer Architecture, OOP, System Design Basics | November-2026/10.md | 79 |
