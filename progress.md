@@ -87,3 +87,4 @@
 | 2026-11-09 | Greedy (Task Scheduler) | Medium | Operating Systems, Computer Networks, DBMS | November-2026/09.md | 78 |
 | 2026-11-10 | Bit Manipulation (Minimum XOR Sum of Two Arrays) | Hard | Computer Architecture, OOP, System Design Basics | November-2026/10.md | 79 |
 | 2026-11-11 | Hashing/Maps (Top K Frequent Elements) | Medium | Operating Systems, DBMS, Computer Architecture | November-2026/11.md | 80 |
+| 2026-11-12 | Sorting/Searching (Split Array Largest Sum) | Hard | Computer Networks, OOP, System Design Basics | November-2026/12.md | 81 |
