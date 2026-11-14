@@ -89,3 +89,4 @@
 | 2026-11-11 | Hashing/Maps (Top K Frequent Elements) | Medium | Operating Systems, DBMS, Computer Architecture | November-2026/11.md | 80 |
 | 2026-11-12 | Sorting/Searching (Split Array Largest Sum) | Hard | Computer Networks, OOP, System Design Basics | November-2026/12.md | 81 |
 | 2026-11-13 | Strings (Longest Palindromic Substring) | Medium | DBMS, Computer Architecture, Computer Networks | November-2026/13.md | 82 |
+| 2026-11-14 | Graphs (Shortest Path Visiting All Nodes) | Hard | Operating Systems, OOP, System Design Basics | November-2026/14.md | 83 |
