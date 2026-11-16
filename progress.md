@@ -91,3 +91,4 @@
 | 2026-11-13 | Strings (Longest Palindromic Substring) | Medium | DBMS, Computer Architecture, Computer Networks | November-2026/13.md | 82 |
 | 2026-11-14 | Graphs (Shortest Path Visiting All Nodes) | Hard | Operating Systems, OOP, System Design Basics | November-2026/14.md | 83 |
 | 2026-11-15 | Dynamic Programming (Longest Increasing Subsequence) | Medium | Computer Networks, DBMS, OOP | November-2026/15.md | 84 |
+| 2026-11-16 | Linked Lists (Merge k Sorted Linked Lists) | Hard | Operating Systems, Computer Networks, System Design Basics | November-2026/16.md | 85 |
