@@ -93,3 +93,4 @@
 | 2026-11-15 | Dynamic Programming (Longest Increasing Subsequence) | Medium | Computer Networks, DBMS, OOP | November-2026/15.md | 84 |
 | 2026-11-16 | Linked Lists (Merge k Sorted Linked Lists) | Hard | Operating Systems, Computer Networks, System Design Basics | November-2026/16.md | 85 |
 | 2026-11-17 | Trees (All Nodes Distance K in Binary Tree) | Medium | Operating Systems, DBMS, Computer Architecture | November-2026/17.md | 86 |
+| 2026-11-18 | Arrays (First Missing Positive) | Hard | DBMS, Computer Architecture, System Design Basics | November-2026/18.md | 87 |
