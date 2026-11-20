@@ -95,3 +95,4 @@
 | 2026-11-17 | Trees (All Nodes Distance K in Binary Tree) | Medium | Operating Systems, DBMS, Computer Architecture | November-2026/17.md | 86 |
 | 2026-11-18 | Arrays (First Missing Positive) | Hard | DBMS, Computer Architecture, System Design Basics | November-2026/18.md | 87 |
 | 2026-11-19 | Stacks/Queues (Next Greater Element II) | Medium | Operating Systems, Computer Networks, OOP | November-2026/19.md | 88 |
+| 2026-11-20 | Recursion/Backtracking (Sudoku Solver) | Hard | Operating Systems, DBMS, Computer Networks | November-2026/20.md | 89 |
