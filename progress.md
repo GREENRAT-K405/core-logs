@@ -100,3 +100,4 @@
 | 2026-11-22 | Bit Manipulation (Maximum XOR With an Element From Array) | Hard | Computer Networks, System Design Basics, Computer Architecture | November-2026/22.md | 91 |
 | 2026-11-23 | Hashing/Maps (LFU Cache) | Hard | OOP, DBMS, Computer Architecture | November-2026/23.md | 92 |
 | 2026-11-24 | Graphs (Pacific Atlantic Water Flow) | Medium | Operating Systems, Computer Networks, DBMS | November-2026/24.md | 93 |
+| 2026-11-25 | Strings (Minimum Window Substring) | Hard | OOP, System Design Basics, Operating Systems | November-2026/25.md | 94 |
