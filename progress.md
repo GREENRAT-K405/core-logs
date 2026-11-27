@@ -102,3 +102,4 @@
 | 2026-11-24 | Graphs (Pacific Atlantic Water Flow) | Medium | Operating Systems, Computer Networks, DBMS | November-2026/24.md | 93 |
 | 2026-11-25 | Strings (Minimum Window Substring) | Hard | OOP, System Design Basics, Operating Systems | November-2026/25.md | 94 |
 | 2026-11-26 | Trees (Vertical Order Traversal of a Binary Tree) | Medium | Computer Networks, Computer Architecture, DBMS | November-2026/26.md | 95 |
+| 2026-11-27 | Arrays (Candy) | Hard | OOP, Computer Architecture, System Design Basics | November-2026/27.md | 96 |
